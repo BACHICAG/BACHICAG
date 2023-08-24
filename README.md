@@ -1,6 +1,6 @@
-# ¡Hola! Soy Bryan
+# Explorando Mi Mundo
 
-## ¿Quien soy?
+## Un Vistaso Personal
 Mi nombre es Bryan Arley Chica Gutiérrez, pero en GitHub me conocen como BACHICAG. Desde mi formación como Ingeniero Electrónico, he evolucionado hacia un apasionado Full Stack Web Developer, fusionando la electrónica con la tecnología web para crear experiencias únicas.
 
 ## Mi Trayectoria y Tecnologías
