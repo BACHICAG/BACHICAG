@@ -11,4 +11,5 @@ Con un sólido dominio de tecnologías como **Node.js**, **Express.js** y **Reac
 ## ¿Hacia qué punto me estoy orientando?
 Mi viaje no tiene un destino final, sin cesar, me esfuerzo por aprender y crecer. Siempre estoy abierto a nuevas oportunidades que me permitan seguir fusionando las habilidades que voy adquiriendo para resolver problemas apasionantes.
 
+### Contacto
 ¿Quieres colaborar en un proyecto emocionante, explorar nuevas posibilidades tecnológicas o simplemente charlar sobre el futuro digital? ¡No dudes en contactarme y juntos podemos convertir ideas en realidad! Puedes encontrarme en linkedin. ¡Espero ansiosamente nuestra próxima conversación!
